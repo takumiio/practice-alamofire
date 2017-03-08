@@ -8,5 +8,6 @@ target 'practice-alamofire' do
 
   # Pods for practice-alamofire
   pod 'Alamofire', '~> 4.4'
+  pod 'SwiftyJSON'
 
 end
